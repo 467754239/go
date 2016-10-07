@@ -1,5 +1,3 @@
-![golang](https://github.com/467754239/go/blob/master/img/golang.png)
-
 ## 序
 ```
 安装 done
