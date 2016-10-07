@@ -1,7 +1,7 @@
 # Golang
 
 - [basic](https://github.com/467754239/go/tree/master/basic)
-- beego框架
+- [beego框架](https://github.com/467754239/go/tree/master/begoo)
 
 --   
 
