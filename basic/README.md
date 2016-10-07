@@ -1,4 +1,4 @@
-![golang](img/golang.png)
+![golang](https://github.com/467754239/go/blob/master/img/golang.png)
 
 ## 序
 ```
