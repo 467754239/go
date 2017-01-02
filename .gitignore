@@ -93,3 +93,6 @@ ENV/
 
 # define
 test/
+src/
+bin/
+pkg/
